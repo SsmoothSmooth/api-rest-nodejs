@@ -29,6 +29,7 @@
 
 - npm i fastify
 - npm i knex sqlite3
+- npm i pg
 - npm run knex -- migrate:make create-documents ➡️ Cria a tabela
 - npm run knex -- migrate:latest                ➡️ Lê todas as migrations e executa-las
 - npm run knex -- migrate:rollback              ➡️ Desfaz a migration que foi executada
@@ -44,6 +45,9 @@
 - https://knexjs.org/                       ➡️ Query Builder
 - https://jestjs.io/pt-BR/                  ➡️ Ferramenta para teste
 - https://vitest.dev/                       ➡️ Framework test
+- https://render.com/                       ➡️ Realizar deploy
+- https://fly.io/                           ➡️ Realizar deploy
+- https://railway.app/                          ➡️ Realizar deploy
 
 -----------------------------------------------------------------------------------------
 
@@ -158,4 +162,10 @@
 - 
 
 -----------------------------------------------------------------------------------------
+
+// Opções gratuita para deploy
+
+- Render
+- Fly.io
+- Railway
 -----------------------------------------------------------------------------------------
